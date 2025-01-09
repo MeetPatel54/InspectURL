@@ -1,5 +1,32 @@
 [
     {
         "url": "https://google.com/"
+    },
+    {
+        "url": "https://example.com?name=John&age=25",
+        "params": {
+            "name": "John",
+            "age": "25"
+        }
+    },
+    {
+        "url": "https://google.com/"
+    },
+    {
+        "url": "https://example.com?name=John&age=25",
+        "params": {
+            "name": "John",
+            "age": "25"
+        }
+    },
+    {
+        "url": "https://example.com?name=John&age=25",
+        "params": {
+            "name": "John",
+            "age": "25"
+        }
+    },
+    {
+        "url": "https://google.com/"
     }
 ]
